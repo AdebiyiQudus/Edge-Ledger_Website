@@ -5,8 +5,9 @@
 
 /* Align icon to left */
 #what .items .item {
-  display: flex;
-  text-align: left;
+  flex: 1;
+  text-align: center;
+  padding: 1rem;
 }
 
 /* Position icon */
